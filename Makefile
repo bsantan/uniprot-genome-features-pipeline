@@ -9,6 +9,8 @@ kg-microbe:
 
 	wget "https://raw.githubusercontent.com/Knowledge-Graph-Hub/kg-microbe/master/data/raw/exclusion_branches.tsv" -O exclusion_branches.tsv
 
+	
+
 uniprot-download:
 
 	up download-uniprot-genomes

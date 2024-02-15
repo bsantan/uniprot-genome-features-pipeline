@@ -937,13 +937,13 @@ validators = ">=0.20.0,<0.21.0"
 
 [[package]]
 name = "linkml"
-version = "1.7.3"
+version = "1.7.4"
 description = "Linked Open Data Modeling Language"
 optional = false
 python-versions = ">=3.8.1,<4.0.0"
 files = [
-    {file = "linkml-1.7.3-py3-none-any.whl", hash = "sha256:2108ad2f8630e14555a0f97af31ee6fdb15ca3176eb8853e82d11329b8549d8d"},
-    {file = "linkml-1.7.3.tar.gz", hash = "sha256:761dbe3c73e9e9ff82afe2730acb1c1766e5bae6cd97e3fb8c2381652d8ff37e"},
+    {file = "linkml-1.7.4-py3-none-any.whl", hash = "sha256:087bdeaf0be62163c7af888ca6e5f23eb93bc2e0757054a8fc83a8b7463de8f1"},
+    {file = "linkml-1.7.4.tar.gz", hash = "sha256:65236dac7e5a4a41600261adf8be1d4073baba9664460f334bc958f8bb538f94"},
 ]
 
 [package.dependencies]
